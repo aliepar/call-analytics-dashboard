@@ -256,7 +256,7 @@ export default function Dashboard() {
 
         <div className="bg-white p-6 rounded-2xl border border-slate-200 shadow-sm flex flex-col justify-between">
           <h3 className="text-base font-bold text-slate-900 mb-2">Calls Distribution</h3>
-          <p>Displays totall call by City </p>
+          <p>Displays total call by City </p>
           <div className="h-40 w-full flex items-center justify-center">
             <ResponsiveContainer width="100%" height="100%">
               <PieChart>
